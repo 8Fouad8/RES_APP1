@@ -1,42 +1,71 @@
 {
   "project_info": {
-    "project_number": "262294504415",
-    "firebase_url": "https://restuarant-app-455f7-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "restuarant-app-455f7",
-    "storage_bucket": "restuarant-app-455f7.appspot.com"
+    "project_number": "1035644677271",
+    "firebase_url": "https://wenote-7e50a-default-rtdb.firebaseio.com",
+    "project_id": "wenote-7e50a",
+    "storage_bucket": "wenote-7e50a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:262294504415:android:4b6cdb38fc7144bd83ba6a",
+        "mobilesdk_app_id": "1:1035644677271:android:9646dbaffd23db6ac90dd2",
         "android_client_info": {
           "package_name": "com.example.anew"
         }
       },
       "oauth_client": [
         {
-          "client_id": "262294504415-kb9v7ceqmlpv3k8g8pg6o0eqja4dfik8.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.anew",
-            "certificate_hash": "b8f07b405a5aa3315bcf854c75f02cbe4b0717f4"
-          }
-        },
-        {
-          "client_id": "262294504415-liotm2mmkjfrrhhn89cnnut0dfhdjktm.apps.googleusercontent.com",
+          "client_id": "1035644677271-jvkikjhf0nain9so5qf66qacq0e5jka3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC7tXw-BxHAtXF86hebzncj_74iUqJ4ea8"
+          "current_key": "AIzaSyDVLXvOI-6fB4b7oB00dcNlNGovzjK1-dw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "262294504415-liotm2mmkjfrrhhn89cnnut0dfhdjktm.apps.googleusercontent.com",
+              "client_id": "1035644677271-jvkikjhf0nain9so5qf66qacq0e5jka3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035644677271:android:4811160606aa8f66c90dd2",
+        "android_client_info": {
+          "package_name": "com.example.wenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035644677271-56bojrftnkt98ppijddlq3qcvmu7i3eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wenote",
+            "certificate_hash": "9e337c95935f6e546df87b11d9ea0d58fde4f8c9"
+          }
+        },
+        {
+          "client_id": "1035644677271-jvkikjhf0nain9so5qf66qacq0e5jka3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLXvOI-6fB4b7oB00dcNlNGovzjK1-dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035644677271-jvkikjhf0nain9so5qf66qacq0e5jka3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
